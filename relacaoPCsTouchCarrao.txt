@@ -1,0 +1,10 @@
+Campo Grande:
+* Touch ID 6 com PC id 90;
+* Touch ID 7 com PC id 01 (lápis atrás do PC);
+
+Outros:
+* Touch ID 86 com PC id 45;
+* Touch ID 10 com PC id 85;
+* Touch ID 17 com PC novo;
+
+
